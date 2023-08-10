@@ -1,0 +1,24 @@
+1st
+
+
+git config --global user.name
+git config --global user.email
+git init
+git add .
+git remote add origin "url"
+git commit -m "rr"
+git push -u origin master
+
+2nd
+
+git clone "url"
+
+3rd
+
+git branch branchname
+git checkout branchname
+
+4th
+
+cd projectfile
+git pull "url"
